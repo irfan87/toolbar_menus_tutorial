@@ -1,0 +1,2 @@
+rootProject.name = "Toolbar Menus Tutorial"
+include ':app'
